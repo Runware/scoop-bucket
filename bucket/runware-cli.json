@@ -1,0 +1,22 @@
+{
+    "version": "0.6.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Runware/runware-cli/releases/download/v0.6.1/runware_windows_amd64.zip",
+            "bin": [
+                "runware.exe"
+            ],
+            "hash": "f4006fdd32dc6664e3ce6b968c75e49bc6845ba748b348d6fe9876f741edfca3"
+        },
+        "arm64": {
+            "url": "https://github.com/Runware/runware-cli/releases/download/v0.6.1/runware_windows_arm64.zip",
+            "bin": [
+                "runware.exe"
+            ],
+            "hash": "138f3d63aa01e8725f616e3c93046371a25a8b4496d886b76de16787066b7e9d"
+        }
+    },
+    "homepage": "https://runware.ai",
+    "license": "MIT",
+    "description": "A command-line tool for interacting with the Runware inference API."
+}
