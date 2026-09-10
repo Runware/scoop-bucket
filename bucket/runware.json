@@ -1,19 +1,19 @@
 {
-    "version": "1.1.0",
+    "version": "1.1.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Runware/runware-cli/releases/download/v1.1.0/runware_windows_amd64.zip",
+            "url": "https://github.com/Runware/runware-cli/releases/download/v1.1.1/runware_windows_amd64.zip",
             "bin": [
                 "runware.exe"
             ],
-            "hash": "582e2e80c914729502955751a4f9a19b75c85fedfbf9c3b2fecc209346234c70"
+            "hash": "364c65f6d46f61fa849242845e0186a58eafa44ab5392a3cf32bf63e2594e871"
         },
         "arm64": {
-            "url": "https://github.com/Runware/runware-cli/releases/download/v1.1.0/runware_windows_arm64.zip",
+            "url": "https://github.com/Runware/runware-cli/releases/download/v1.1.1/runware_windows_arm64.zip",
             "bin": [
                 "runware.exe"
             ],
-            "hash": "cae0392998548ea0662aedb450907d0aafdad0ca831f2efb2167e2ad3498aee7"
+            "hash": "f93bf6189f1cd21b5bf4f41d4fdb5b309be24d1f99ea5a235de44cdd376fda1c"
         }
     },
     "homepage": "https://runware.ai",
